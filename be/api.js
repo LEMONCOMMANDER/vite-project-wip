@@ -11,7 +11,7 @@ app.use(cors())
 
 app.get('/test', async (req, res) => {
     try {
-        const result = await sql(`select * from api_test where id = ${1}`)
+        const result = await sql(`select * from api_test where id = $1`, [1])
         res.send(result)
     } catch (error) {
         res.status(500).send({ error: error.message })
