@@ -11,7 +11,7 @@ The scope of this project is to:
 - phase 5 - implement strict typing in FE and BE with typescript
 - phase 6 - build a couple of react components and make a proper user interface
 - phase 7 - containerize the app and db with docker
-- phase 7 - the sky is the limit... 
+- phase 8 - the sky is the limit... 
 
 ### concept
 
