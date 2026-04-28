@@ -15,8 +15,4 @@ The scope of this project is to:
 
 ### concept
 
-All apps should have a purpose. The starting concept for this one is a simple one: robot builder.
-The UI should allow users to combine several robot parts to create custom robots. These can be
-saved and fetched in the db
-
-The intention is a single page application that utilizes a rest api to connect fe and be.
+We are building a series of job search tools that will help us in our careers. The starting project will be a simple jira based ticketing system. The second project will be a job tracker!
