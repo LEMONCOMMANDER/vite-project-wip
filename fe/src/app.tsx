@@ -47,7 +47,7 @@ function App() {
                   //   <Display(result)  />;
                   // }
               } catch (error) {
-                console.error(error.message);
+                console.error(error as Error);
               }
           }
       }>api</button>
